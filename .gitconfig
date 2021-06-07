@@ -3,3 +3,5 @@
 	email = i.tsuchiya1116@cb-cloud.com
 [core]
 	autocrlf = input
+[push]
+	default = current

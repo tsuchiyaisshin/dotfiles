@@ -28,4 +28,3 @@ alias fb='git checkout $(git branch -a | tr -d " " |fzf --prompt "CHECKOUT BRANC
 #----
 #git hack
 #----
-

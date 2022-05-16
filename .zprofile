@@ -11,8 +11,8 @@ alias ga='git add'
 alias gd='git diff'
 
 # rails
-alias rns='CORS_ALLOWED_ORIGINS=dynamic bin/rails s'
-alias rnj='bin/rails jobs:work'
+alias nimas='CORS_ALLOWED_ORIGINS=dynamic bin/rails s'
+alias nimaj='bin/rails jobs:work'
 alias rbcop='bundle exec rubocop -a'
 
 # overwrap

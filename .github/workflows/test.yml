@@ -11,4 +11,4 @@ jobs:
       - name: Install required packages
         run: apt-get update && apt-get install -y git sudo
       - name: Install dotfiles
-        run: zsh .bin/setup.sh
+        run: bin/setup.sh

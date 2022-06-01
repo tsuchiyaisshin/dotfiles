@@ -9,6 +9,8 @@ alias gl='git log --graph --oneline --decorate'
 alias gs='git status'
 alias ga='git add'
 alias gd='git diff'
+alias gb='git branch'
+alias gch='git checkout'
 
 # rails
 alias nimas='CORS_ALLOWED_ORIGINS=dynamic bin/rails s'
